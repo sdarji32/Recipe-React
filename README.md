@@ -1,3 +1,7 @@
+## Recipe-React Application
+[Inspired by DevED](https://www.youtube.com/watch?v=U9T6YkEDkMo)
+![Example UI Images for recipe app][Recipe.png][Recipe2.png]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
