@@ -1,9 +1,9 @@
 ## Recipe-React Application
 [Inspired by DevED](https://www.youtube.com/watch?v=U9T6YkEDkMo)
 ![Example UI Images for recipe app][Rep2]
-[Rep2] = https://github.com/sdarji32/Recipe-React/blob/master/Recipe1.png "Example UI view of Chicken Search"
+[Rep2]: https://github.com/sdarji32/Recipe-React/blob/master/Recipe1.png "Example UI view of Chicken Search"
 ![Image: 2][Rep1]
-[Rep1] = https://github.com/sdarji32/Recipe-React/blob/master/Recipe2.png "Example UI view of Chicken Search with darkng gradient"
+[Rep1]: https://github.com/sdarji32/Recipe-React/blob/master/Recipe2.png "Example UI view of Chicken Search with darkng gradient"
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
