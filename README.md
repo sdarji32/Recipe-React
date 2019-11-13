@@ -1,5 +1,11 @@
 ## Recipe-React Application
 [Inspired by DevED](https://www.youtube.com/watch?v=U9T6YkEDkMo)
+
++ Using API recipe search database to find food recipes baseed on the search query
++ Lists the Recipe title, ingredients list, and in bold the calorie count of the dish
+  + Goals:
+    +  Add function for blog posts and pull Pinterest ideas
+    
 ![Example UI Images for recipe app](https://github.com/sdarji32/Recipe-React/blob/master/Recipe1.png "Example UI view of Chicken Search")
 ![Image: 2](https://github.com/sdarji32/Recipe-React/blob/master/Recipe2.png "Example UI view of Chicken Search with darkng gradient")
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
